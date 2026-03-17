@@ -3,7 +3,7 @@
 
 def greet(name):
     """Return a greeting string."""
-    return f"Hello, {Mothana AL-Nuaimi}!"
+    return f"Hello, {name}!"
 
 
 print(greet("World"))
