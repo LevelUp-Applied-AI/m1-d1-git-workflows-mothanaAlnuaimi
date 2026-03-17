@@ -3,9 +3,10 @@
 
 def greet(name):
     """Return a greeting string."""
-    return f"Hello, {"Mothana Hassn Al-Nuaimi"}!"
+    return f"Hello, {Mothana AL-Nuaimi}!"
 
 
 print(greet("World"))
 
 # Add your drill completion note below this line:
+# Drill completed by Mothana AL-Nuaimi 
